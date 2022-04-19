@@ -1,0 +1,26 @@
+{
+  "name": "mysocialnetwork_api_nosql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmvrstudio/MySocialNetwork_API_NoSQL.git"
+  },
+  "keywords": [],
+  "author": "Mariana Marques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmvrstudio/MySocialNetwork_API_NoSQL/issues"
+  },
+  "homepage": "https://github.com/mmvrstudio/MySocialNetwork_API_NoSQL#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "mongoose": "^5.13.14"
+  },
+  "description": "## Description: This project is essencially an API created for a social network using the MongoDB database. With this database my website is able to handle large amounts of unstructured data. In this project I will use Mongoose ODM, the moment package to format time stamps and Express.js for routing."
+}
