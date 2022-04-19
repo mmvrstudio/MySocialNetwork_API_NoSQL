@@ -28,10 +28,23 @@ https://user-images.githubusercontent.com/65464431/164118055-890457f1-e1a7-4f54-
 
 CREATE USER DEMO:
 
-
-
-
 https://user-images.githubusercontent.com/65464431/164119738-86a52fd5-4e6a-40e8-9a8c-a45ded1a9107.mov
+
+
+DELETE USER DEMO:
+
+
+
+
+POST (Create) USER DEMO:
+
+
+
+
+PUT (Update) USER DEMO:
+
+
+
 
 
 
