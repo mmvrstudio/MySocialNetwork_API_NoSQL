@@ -26,6 +26,17 @@ Demo Video: GET, CREATE, DELETE and POST
 https://user-images.githubusercontent.com/65464431/164118055-890457f1-e1a7-4f54-8b56-363ae02c8970.mp4
 
 
+CREATE USER DEMO:
+
+
+
+
+https://user-images.githubusercontent.com/65464431/164119738-86a52fd5-4e6a-40e8-9a8c-a45ded1a9107.mov
+
+
+
+
+
 
 
 
