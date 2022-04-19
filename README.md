@@ -17,7 +17,18 @@ This project is essencially an API created for a social network using the MongoD
 6. Open Insomnia Core to test API routes
 7. Create New requests: GET, CREATE, DELETE, POST, to visualize and manipulate the data pulled from the database.
 
- 
+
+Demo Video: GET, CREATE, DELETE and POST
+
+
+
+
+https://user-images.githubusercontent.com/65464431/164118055-890457f1-e1a7-4f54-8b56-363ae02c8970.mp4
+
+
+
+
+
 
 ## Contact:
  Github repo: https://github.com/mmvrstudio/MySocialNetwork_API_NoSQL
