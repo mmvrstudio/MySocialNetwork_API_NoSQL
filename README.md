@@ -15,7 +15,7 @@ This project is essencially an API created for a social network using the MongoD
     - $ npm start
 5. Install Insomnia
 6. Open Insomnia Core to test API routes
-7. Create New requests: GET, CREATE, DELETE, POST, to visualize and manipulate the data pulled from the database.
+7. Create New requests: GET, POST and PUT to visualize and manipulate the data pulled from the database.
 
 
 Demo Videos: POST, DELETE and PUT Data
