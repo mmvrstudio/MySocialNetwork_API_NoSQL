@@ -18,7 +18,7 @@ This project is essencially an API created for a social network using the MongoD
 7. Create New requests: GET, CREATE, DELETE, POST, to visualize and manipulate the data pulled from the database.
 
 
-Demo Videos: GET, CREATE, DELETE and POST
+Demo Videos: POST, DELETE and PUT Data
 
 
 POST (Create) USER DEMO:
