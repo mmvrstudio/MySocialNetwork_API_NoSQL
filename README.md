@@ -21,7 +21,7 @@ This project is essencially an API created for a social network using the MongoD
 Demo Videos: GET, CREATE, DELETE and POST
 
 
-CREATE USER DEMO:
+POST (Create) USER DEMO:
 
 https://user-images.githubusercontent.com/65464431/164119738-86a52fd5-4e6a-40e8-9a8c-a45ded1a9107.mov
 
@@ -29,11 +29,6 @@ https://user-images.githubusercontent.com/65464431/164119738-86a52fd5-4e6a-40e8-
 DELETE USER DEMO:
 
 https://user-images.githubusercontent.com/65464431/164121459-88bf50ae-be31-4b20-9788-4d0a9cd6a9bf.mp4
-
-
-POST (Create) USER DEMO:
-
-
 
 
 PUT (Update) USER DEMO:
